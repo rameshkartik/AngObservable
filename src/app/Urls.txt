@@ -1,0 +1,28 @@
+https://www.tektutorialshub.com/angular/rxjs-observable-using-create-of-from-in-angular/
+
+https://stackblitz.com/edit/example-rxjs-observable-create-operator-fromevent
+
+
+https://stackblitz.com/edit/angular-10-async-await-example
+
+https://stackblitz.com/edit/angular-10-async-pipe-promise-observable-example
+
+https://fireship.io/lessons/sharing-data-between-angular-components-four-methods/
+
+https://stackblitz.com/edit/routing-angular?file=app%2Fapp-routing.module.ts
+
+https://blog.logrocket.com/use-rxjs-operators-to-consume-observables/
+
+
+Slides Creation
+
+Overview on Observable Pattern
+Creating Observable and Subscription
+Error Handling
+RXJS Lib
+List all Operators
+- of
+- from
+- fromevent
+-Utility -- Try
+-Filtering - Try
